@@ -1,0 +1,40 @@
+.home-container{
+     margin-top : 0 ;
+     width: 1440px;
+     height: 900px;
+
+}
+.home-content{
+
+    background: #FFF;
+    padding-top : 180px ;
+    padding-bottom: 265px;
+}
+
+.text-title{
+
+    font-size: 48px;
+    line-height: 64px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.02em;
+
+    color: #062847;
+    padding-left : 120px ;
+   
+}
+
+.text-subtitle{
+    padding-left: 120px;
+    padding-top : 20px ;
+    font-size: 20px;
+    line-height: 36px;
+    color: #5A6774;
+    margin-bottom : 20px ;
+
+}
+
+.btn-start{
+    margin-left: 120px;
+}
